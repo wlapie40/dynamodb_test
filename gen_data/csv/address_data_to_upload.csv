@@ -1,0 +1,2000 @@
+continent,country,state,city
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
+North America,USA,Ohio,Columbus
+North America,USA,California,San Francisco
+North America,USA,North Carolina,Charlotte
+North America,USA,Indiana,Indianapolis
+North America,USA,Washington,Seattle
+North America,USA,Colorado,Denver
+North America,USA,District of Columbia,Washington
+North America,USA,Massachusetts,Boston
+North America,USA,Texas,El Paso
+North America,USA,Michigan,Detroit
+North America,USA,Tennessee,Nashville
+North America,USA,Oregon,Portland
+North America,USA,Tennessee,Memphis
+North America,USA,Oklahoma,Oklahoma City
+North America,USA,Nevada,Las Vegas
+North America,USA,Kentucky,Louisville
+North America,USA,Maryland,Baltimore
+North America,USA,Wisconsin,Milwaukee
+North America,USA,New Mexico,Albuquerque
+North America,USA,Arizona,Tucson
+North America,USA,California,Fresno
+North America,USA,Arizona,Mesa
+North America,USA,California,Sacramento
+North America,USA,Georgia,Atlanta
+North America,USA,Missouri,Kansas City
+North America,USA,Colorado,Colorado Springs
+North America,USA,Florida,Miami
+North America,USA,North Carolina,Raleigh
+North America,USA,Nebraska,Omaha
+North America,USA,California,Long Beach
+North America,USA,Virginia,Virginia Beach
+North America,USA,California,Oakland
+North America,USA,Minnesota,Minneapolis
+North America,USA,Oklahoma,Tulsa
+North America,USA,Texas,Arlington
+North America,USA,Florida,Tampa
+North America,USA,Louisiana,New Orleans
+North America,USA,Kansas,Wichita
+North America,USA,Ohio,Cleveland
+North America,USA,California,Bakersfield
+North America,USA,Colorado,Aurora
+North America,USA,California,Anaheim
+North America,USA,Hawaii,Honolulu
+North America,USA,California,Santa Ana
+North America,USA,California,Riverside
+North America,USA,Texas,Corpus Christi
+North America,USA,Kentucky,Lexington
+North America,USA,California,Stockton
+North America,USA,Nevada,Henderson
+North America,USA,Minnesota,Saint Paul
+North America,USA,Missouri,St. Louis
+North America,USA,Ohio,Cincinnati
+North America,USA,Pennsylvania,Pittsburgh
+North America,USA,North Carolina,Greensboro
+North America,USA,Alaska,Anchorage
+North America,USA,Texas,Plano
+North America,USA,Nebraska,Lincoln
+North America,USA,Florida,Orlando
+North America,USA,California,Irvine
+North America,USA,New Jersey,Newark
+North America,USA,Ohio,Toledo
+North America,USA,North Carolina,Durham
+North America,USA,California,Chula Vista
+North America,USA,Indiana,Fort Wayne
+North America,USA,New Jersey,Jersey City
+North America,USA,Florida,St. Petersburg
+North America,USA,Texas,Laredo
+North America,USA,Wisconsin,Madison
+North America,USA,Arizona,Chandler
+North America,USA,New York,Buffalo
+North America,USA,Texas,Lubbock
+North America,USA,Arizona,Scottsdale
+North America,USA,Nevada,Reno
+North America,USA,Arizona,Glendale
+North America,USA,Arizona,Gilbert
+North America,USA,North Carolina,WinstonSalem
+North America,USA,Nevada,North Las Vegas
+North America,USA,Virginia,Norfolk
+North America,USA,Virginia,Chesapeake
+North America,USA,Texas,Garland
+North America,USA,Texas,Irving
+North America,USA,Florida,Hialeah
+North America,USA,California,Fremont
+North America,USA,Idaho,Boise
+North America,USA,Virginia,Richmond
+North America,USA,Louisiana,Baton Rouge
+North America,USA,Washington,Spokane
+North America,USA,Iowa,Des Moines
+North America,USA,Washington,Tacoma
+North America,USA,California,San Bernardino
+North America,USA,California,Modesto
+North America,USA,California,Fontana
+North America,USA,California,Santa Clarita
+North America,USA,Alabama,Birmingham
+North America,USA,California,Oxnard
+North America,USA,North Carolina,Fayetteville
+North America,USA,California,Moreno Valley
+North America,USA,New York,Rochester
+North America,USA,California,Glendale
+North America,USA,California,Huntington Beach
+North America,USA,Utah,Salt Lake City
+North America,USA,Michigan,Grand Rapids
+North America,USA,Texas,Amarillo
+North America,USA,New York,Yonkers
+North America,USA,Illinois,Aurora
+North America,USA,Alabama,Montgomery
+North America,USA,Ohio,Akron
+North America,USA,Arkansas,Little Rock
+North America,USA,Alabama,Huntsville
+North America,USA,Georgia,Augusta
+North America,USA,Florida,Port St. Lucie
+North America,USA,Texas,Grand Prairie
+North America,USA,Georgia,Columbus
+North America,USA,Florida,Tallahassee
+North America,USA,Kansas,Overland Park
+North America,USA,Arizona,Tempe
+North America,USA,Texas,McKinney
+North America,USA,Alabama,Mobile
+North America,USA,Florida,Cape Coral
+North America,USA,Louisiana,Shreveport
+North America,USA,Texas,Frisco
+North America,USA,Tennessee,Knoxville
+North America,USA,Massachusetts,Worcester
+North America,USA,Texas,Brownsville
+North America,USA,Washington,Vancouver
+North America,USA,Florida,Fort Lauderdale
+North America,USA,South Dakota,Sioux Falls
+North America,USA,California,Ontario
+North America,USA,Tennessee,Chattanooga
+North America,USA,Rhode Island,Providence
+North America,USA,Virginia,Newport News
+North America,USA,California,Rancho Cucamonga
+North America,USA,California,Santa Rosa
+North America,USA,California,Oceanside
+North America,USA,Oregon,Salem
+North America,USA,California,Elk Grove
+North America,USA,California,Garden Grove
+North America,USA,Florida,Pembroke Pines
+North America,USA,Arizona,Peoria
+North America,USA,Oregon,Eugene
+North America,USA,California,Corona
+North America,USA,North Carolina,Cary
+North America,USA,Missouri,Springfield
+North America,USA,Colorado,Fort Collins
+North America,USA,Mississippi,Jackson
+North America,USA,Virginia,Alexandria
+North America,USA,California,Hayward
+North America,USA,California,Lancaster
+North America,USA,Colorado,Lakewood
+North America,USA,Tennessee,Clarksville
+North America,USA,California,Palmdale
+North America,USA,California,Salinas
+North America,USA,Massachusetts,Springfield
+North America,USA,Florida,Hollywood
+North America,USA,Texas,Pasadena
+North America,USA,California,Sunnyvale
+North America,USA,Georgia,Macon
+North America,USA,Kansas,Kansas City
+North America,USA,California,Pomona
+North America,USA,California,Escondido
+North America,USA,Texas,Killeen
+North America,USA,Illinois,Naperville
+North America,USA,Illinois,Joliet
+North America,USA,Washington,Bellevue
+North America,USA,Illinois,Rockford
+North America,USA,Georgia,Savannah
+North America,USA,New Jersey,Paterson
+North America,USA,California,Torrance
+North America,USA,Connecticut,Bridgeport
+North America,USA,Texas,McAllen
+North America,USA,Texas,Mesquite
+North America,USA,New York,Syracuse
+North America,USA,Texas,Midland
+North America,USA,California,Pasadena
+North America,USA,Tennessee,Murfreesboro
+North America,USA,Florida,Miramar
+North America,USA,Ohio,Dayton
+North America,USA,California,Fullerton
+North America,USA,Kansas,Olathe
+North America,USA,California,Orange
+North America,USA,Colorado,Thornton
+North America,USA,California,Roseville
+North America,USA,Texas,Denton
+North America,USA,Texas,Waco
+North America,USA,Arizona,Surprise
+North America,USA,Texas,Carrollton
+North America,USA,Utah,West Valley City
+North America,USA,South Carolina,Charleston
+North America,USA,Michigan,Warren
+North America,USA,Virginia,Hampton
+North America,USA,Florida,Gainesville
+North America,USA,California,Visalia
+North America,USA,Florida,Coral Springs
+North America,USA,South Carolina,Columbia
+North America,USA,Iowa,Cedar Rapids
+North America,USA,Michigan,Sterling Heights
+North America,USA,Connecticut,New Haven
+North America,USA,Connecticut,Stamford
+North America,USA,California,Concord
+North America,USA,Washington,Kent
+North America,USA,California,Santa Clara
+North America,USA,New Jersey,Elizabeth
+North America,USA,Texas,Round Rock
+North America,USA,California,Thousand Oaks
+North America,USA,Louisiana,Lafayette
+North America,USA,Georgia,Athens
+North America,USA,Kansas,Topeka
+North America,USA,California,Simi Valley
+North America,USA,North Dakota,Fargo
+North America,USA,Oklahoma,Norman
+North America,USA,Missouri,Columbia
+North America,USA,Texas,Abilene
+North America,USA,North Carolina,Wilmington
+North America,USA,Connecticut,Hartford
+North America,USA,California,Victorville
+North America,USA,Texas,Pearland
+North America,USA,California,Vallejo
+North America,USA,Michigan,Ann Arbor
+North America,USA,California,Berkeley
+North America,USA,Pennsylvania,Allentown
+North America,USA,Texas,Richardson
+North America,USA,Texas,Odessa
+North America,USA,Colorado,Arvada
+North America,USA,Massachusetts,Cambridge
+North America,USA,Texas,Sugar Land
+North America,USA,Texas,Beaumont
+North America,USA,Michigan,Lansing
+North America,USA,Indiana,Evansville
+North America,USA,Minnesota,Rochester
+North America,USA,Missouri,Independence
+North America,USA,California,Fairfield
+North America,USA,Utah,Provo
+North America,USA,Florida,Clearwater
+North America,USA,Texas,College Station
+North America,USA,Utah,West Jordan
+North America,USA,California,Carlsbad
+North America,USA,California,El Monte
+North America,USA,California,Murrieta
+North America,USA,California,Temecula
+North America,USA,Illinois,Springfield
+North America,USA,Florida,Palm Bay
+North America,USA,California,Costa Mesa
+North America,USA,Colorado,Westminster
+North America,USA,South Carolina,North Charleston
+North America,USA,Florida,Miami Gardens
+North America,USA,New Hampshire,Manchester
+North America,USA,North Carolina,High Point
+North America,USA,California,Downey
+North America,USA,California,Clovis
+North America,USA,Florida,Pompano Beach
+North America,USA,Colorado,Pueblo
+North America,USA,Illinois,Elgin
+North America,USA,Massachusetts,Lowell
+North America,USA,California,Antioch
+North America,USA,Florida,West Palm Beach
+North America,USA,Illinois,Peoria
+North America,USA,Washington,Everett
+North America,USA,California,Ventura
+North America,USA,Colorado,Centennial
+North America,USA,Florida,Lakeland
+North America,USA,Oregon,Gresham
+North America,USA,California,Richmond
+North America,USA,Montana,Billings
+North America,USA,California,Inglewood
+North America,USA,Oklahoma,Broken Arrow
+North America,USA,Georgia,Sandy Springs
+North America,USA,California,Jurupa Valley
+North America,USA,Oregon,Hillsboro
+North America,USA,Connecticut,Waterbury
+North America,USA,California,Santa Maria
+North America,USA,Colorado,Boulder
+North America,USA,Colorado,Greeley
+North America,USA,California,Daly City
+North America,USA,Idaho,Meridian
+North America,USA,Texas,Lewisville
+North America,USA,Florida,Davie
+North America,USA,California,West Covina
+North America,USA,Texas,League City
+North America,USA,Texas,Tyler
+North America,USA,California,Norwalk
+North America,USA,California,San Mateo
+North America,USA,Wisconsin,Green Bay
+North America,USA,Texas,Wichita Falls
+North America,USA,Nevada,Sparks
+North America,USA,New Jersey,Lakewood
+North America,USA,California,Burbank
+North America,USA,California,Rialto
+North America,USA,Texas,Allen
+North America,USA,California,El Cajon
+North America,USA,New Mexico,Las Cruces
+North America,USA,Washington,Renton
+North America,USA,Iowa,Davenport
+North America,USA,Indiana,South Bend
+North America,USA,California,Vista
+North America,USA,Alabama,Tuscaloosa
+North America,USA,Michigan,Clinton
+North America,USA,New Jersey,Edison
+North America,USA,New Jersey,Woodbridge
+North America,USA,Texas,San Angelo
+North America,USA,Wisconsin,Kenosha
+North America,USA,California,Vacaville
+North America,USA,California,Vacaville
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Europe,Turkey,,Istanbul
+Europe,Russia,,Moscow
+Europe,United Kingdom,,London
+Europe,Russia,,Saint Petersburg
+Europe,Germany,,Berlin
+Europe,Spain,,Madrid
+Europe,Ukraine,,Kiev/Kyiv
+Europe,Italy,,Rome
+Europe,France,,Paris
+Europe,Romania,,Bucharest
+Europe,Belarus,,Minsk
+Europe,Germany,,Hamburg
+Europe,Austria,,Vienna
+Europe,Poland,,Warsaw
+Europe,Hungary,,Budapest
+Europe,Spain,,Barcelona
+Europe,Ukraine,,Kharkiv
+Europe,Germany,,Munich
+Europe,Italy,,Milan
+Europe,Czech Republic,,Prague
+Europe,Russia,,Nizhny Novgorod
+Europe,Russia,,Kazan
+Europe,Bulgaria,,Sofia
+Europe,United Kingdom,,Birmingham
+Europe,Belgium,,Brussels
+Europe,Russia,,Samara
+Europe,Serbia,,Belgrade
+Europe,Russia,,Ufa
+Europe,Russia,,Rostov-on-Don
+Europe,Germany,,Cologne
+Europe,Russia,,Voronezh
+Europe,Russia,,Perm
+Europe,Russia,,Volgograd
+Europe,Ukraine,,Odessa
+Europe,Russia,,Krasnodar
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
+North America,USA,Ohio,Columbus
+North America,USA,California,San Francisco
+North America,USA,North Carolina,Charlotte
+North America,USA,Indiana,Indianapolis
+North America,USA,Washington,Seattle
+North America,USA,Colorado,Denver
+North America,USA,District of Columbia,Washington
+North America,USA,Massachusetts,Boston
+North America,USA,Texas,El Paso
+North America,USA,Michigan,Detroit
+North America,USA,Tennessee,Nashville
+North America,USA,Oregon,Portland
+North America,USA,Tennessee,Memphis
+North America,USA,Oklahoma,Oklahoma City
+North America,USA,Nevada,Las Vegas
+North America,USA,Kentucky,Louisville
+North America,USA,Maryland,Baltimore
+North America,USA,Wisconsin,Milwaukee
+North America,USA,New Mexico,Albuquerque
+North America,USA,Arizona,Tucson
+North America,USA,California,Fresno
+North America,USA,Arizona,Mesa
+North America,USA,California,Sacramento
+North America,USA,Georgia,Atlanta
+North America,USA,Missouri,Kansas City
+North America,USA,Colorado,Colorado Springs
+North America,USA,Florida,Miami
+North America,USA,North Carolina,Raleigh
+North America,USA,Nebraska,Omaha
+North America,USA,California,Long Beach
+North America,USA,Virginia,Virginia Beach
+North America,USA,California,Oakland
+North America,USA,Minnesota,Minneapolis
+North America,USA,Oklahoma,Tulsa
+North America,USA,Texas,Arlington
+North America,USA,Florida,Tampa
+North America,USA,Louisiana,New Orleans
+North America,USA,Kansas,Wichita
+North America,USA,Ohio,Cleveland
+North America,USA,California,Bakersfield
+North America,USA,Colorado,Aurora
+North America,USA,California,Anaheim
+North America,USA,Hawaii,Honolulu
+North America,USA,California,Santa Ana
+North America,USA,California,Riverside
+North America,USA,Texas,Corpus Christi
+North America,USA,Kentucky,Lexington
+North America,USA,California,Stockton
+North America,USA,Nevada,Henderson
+North America,USA,Minnesota,Saint Paul
+North America,USA,Missouri,St. Louis
+North America,USA,Ohio,Cincinnati
+North America,USA,Pennsylvania,Pittsburgh
+North America,USA,North Carolina,Greensboro
+North America,USA,Alaska,Anchorage
+North America,USA,Texas,Plano
+North America,USA,Nebraska,Lincoln
+North America,USA,Florida,Orlando
+North America,USA,California,Irvine
+North America,USA,New Jersey,Newark
+North America,USA,Ohio,Toledo
+North America,USA,North Carolina,Durham
+North America,USA,California,Chula Vista
+North America,USA,Indiana,Fort Wayne
+North America,USA,New Jersey,Jersey City
+North America,USA,Florida,St. Petersburg
+North America,USA,Texas,Laredo
+North America,USA,Wisconsin,Madison
+North America,USA,Arizona,Chandler
+North America,USA,New York,Buffalo
+North America,USA,Texas,Lubbock
+North America,USA,Arizona,Scottsdale
+North America,USA,Nevada,Reno
+North America,USA,Arizona,Glendale
+North America,USA,Arizona,Gilbert
+North America,USA,North Carolina,WinstonSalem
+North America,USA,Nevada,North Las Vegas
+North America,USA,Virginia,Norfolk
+North America,USA,Virginia,Chesapeake
+North America,USA,Texas,Garland
+North America,USA,Texas,Irving
+North America,USA,Florida,Hialeah
+North America,USA,California,Fremont
+North America,USA,Idaho,Boise
+North America,USA,Virginia,Richmond
+North America,USA,Louisiana,Baton Rouge
+North America,USA,Washington,Spokane
+North America,USA,Iowa,Des Moines
+North America,USA,Washington,Tacoma
+North America,USA,California,San Bernardino
+North America,USA,California,Modesto
+North America,USA,California,Fontana
+North America,USA,California,Santa Clarita
+North America,USA,Alabama,Birmingham
+North America,USA,California,Oxnard
+North America,USA,North Carolina,Fayetteville
+North America,USA,California,Moreno Valley
+North America,USA,New York,Rochester
+North America,USA,California,Glendale
+North America,USA,California,Huntington Beach
+North America,USA,Utah,Salt Lake City
+North America,USA,Michigan,Grand Rapids
+North America,USA,Texas,Amarillo
+North America,USA,New York,Yonkers
+North America,USA,Illinois,Aurora
+North America,USA,Alabama,Montgomery
+North America,USA,Ohio,Akron
+North America,USA,Arkansas,Little Rock
+North America,USA,Alabama,Huntsville
+North America,USA,Georgia,Augusta
+North America,USA,Florida,Port St. Lucie
+North America,USA,Texas,Grand Prairie
+North America,USA,Georgia,Columbus
+North America,USA,Florida,Tallahassee
+North America,USA,Kansas,Overland Park
+North America,USA,Arizona,Tempe
+North America,USA,Texas,McKinney
+North America,USA,Alabama,Mobile
+North America,USA,Florida,Cape Coral
+North America,USA,Louisiana,Shreveport
+North America,USA,Texas,Frisco
+North America,USA,Tennessee,Knoxville
+North America,USA,Massachusetts,Worcester
+North America,USA,Texas,Brownsville
+North America,USA,Washington,Vancouver
+North America,USA,Florida,Fort Lauderdale
+North America,USA,South Dakota,Sioux Falls
+North America,USA,California,Ontario
+North America,USA,Tennessee,Chattanooga
+North America,USA,Rhode Island,Providence
+North America,USA,Virginia,Newport News
+North America,USA,California,Rancho Cucamonga
+North America,USA,California,Santa Rosa
+North America,USA,California,Oceanside
+North America,USA,Oregon,Salem
+North America,USA,California,Elk Grove
+North America,USA,California,Garden Grove
+North America,USA,Florida,Pembroke Pines
+North America,USA,Arizona,Peoria
+North America,USA,Oregon,Eugene
+North America,USA,California,Corona
+North America,USA,North Carolina,Cary
+North America,USA,Missouri,Springfield
+North America,USA,Colorado,Fort Collins
+North America,USA,Mississippi,Jackson
+North America,USA,Virginia,Alexandria
+North America,USA,California,Hayward
+North America,USA,California,Lancaster
+North America,USA,Colorado,Lakewood
+North America,USA,Tennessee,Clarksville
+North America,USA,California,Palmdale
+North America,USA,California,Salinas
+North America,USA,Massachusetts,Springfield
+North America,USA,Florida,Hollywood
+North America,USA,Texas,Pasadena
+North America,USA,California,Sunnyvale
+North America,USA,Georgia,Macon
+North America,USA,Kansas,Kansas City
+North America,USA,California,Pomona
+North America,USA,California,Escondido
+North America,USA,Texas,Killeen
+North America,USA,Illinois,Naperville
+North America,USA,Illinois,Joliet
+North America,USA,Washington,Bellevue
+North America,USA,Illinois,Rockford
+North America,USA,Georgia,Savannah
+North America,USA,New Jersey,Paterson
+North America,USA,California,Torrance
+North America,USA,Connecticut,Bridgeport
+North America,USA,Texas,McAllen
+North America,USA,Texas,Mesquite
+North America,USA,New York,Syracuse
+North America,USA,Texas,Midland
+North America,USA,California,Pasadena
+North America,USA,Tennessee,Murfreesboro
+North America,USA,Florida,Miramar
+North America,USA,Ohio,Dayton
+North America,USA,California,Fullerton
+North America,USA,Kansas,Olathe
+North America,USA,California,Orange
+North America,USA,Colorado,Thornton
+North America,USA,California,Roseville
+North America,USA,Texas,Denton
+North America,USA,Texas,Waco
+North America,USA,Arizona,Surprise
+North America,USA,Texas,Carrollton
+North America,USA,Utah,West Valley City
+North America,USA,South Carolina,Charleston
+North America,USA,Michigan,Warren
+North America,USA,Virginia,Hampton
+North America,USA,Florida,Gainesville
+North America,USA,California,Visalia
+North America,USA,Florida,Coral Springs
+North America,USA,South Carolina,Columbia
+North America,USA,Iowa,Cedar Rapids
+North America,USA,Michigan,Sterling Heights
+North America,USA,Connecticut,New Haven
+North America,USA,Connecticut,Stamford
+North America,USA,California,Concord
+North America,USA,Washington,Kent
+North America,USA,California,Santa Clara
+North America,USA,New Jersey,Elizabeth
+North America,USA,Texas,Round Rock
+North America,USA,California,Thousand Oaks
+North America,USA,Louisiana,Lafayette
+North America,USA,Georgia,Athens
+North America,USA,Kansas,Topeka
+North America,USA,California,Simi Valley
+North America,USA,North Dakota,Fargo
+North America,USA,Oklahoma,Norman
+North America,USA,Missouri,Columbia
+North America,USA,Texas,Abilene
+North America,USA,North Carolina,Wilmington
+North America,USA,Connecticut,Hartford
+North America,USA,California,Victorville
+North America,USA,Texas,Pearland
+North America,USA,California,Vallejo
+North America,USA,Michigan,Ann Arbor
+North America,USA,California,Berkeley
+North America,USA,Pennsylvania,Allentown
+North America,USA,Texas,Richardson
+North America,USA,Texas,Odessa
+North America,USA,Colorado,Arvada
+North America,USA,Massachusetts,Cambridge
+North America,USA,Texas,Sugar Land
+North America,USA,Texas,Beaumont
+North America,USA,Michigan,Lansing
+North America,USA,Indiana,Evansville
+North America,USA,Minnesota,Rochester
+North America,USA,Missouri,Independence
+North America,USA,California,Fairfield
+North America,USA,Utah,Provo
+North America,USA,Florida,Clearwater
+North America,USA,Texas,College Station
+North America,USA,Utah,West Jordan
+North America,USA,California,Carlsbad
+North America,USA,California,El Monte
+North America,USA,California,Murrieta
+North America,USA,California,Temecula
+North America,USA,Illinois,Springfield
+North America,USA,Florida,Palm Bay
+North America,USA,California,Costa Mesa
+North America,USA,Colorado,Westminster
+North America,USA,South Carolina,North Charleston
+North America,USA,Florida,Miami Gardens
+North America,USA,New Hampshire,Manchester
+North America,USA,North Carolina,High Point
+North America,USA,California,Downey
+North America,USA,California,Clovis
+North America,USA,Florida,Pompano Beach
+North America,USA,Colorado,Pueblo
+North America,USA,Illinois,Elgin
+North America,USA,Massachusetts,Lowell
+North America,USA,California,Antioch
+North America,USA,Florida,West Palm Beach
+North America,USA,Illinois,Peoria
+North America,USA,Washington,Everett
+North America,USA,California,Ventura
+North America,USA,Colorado,Centennial
+North America,USA,Florida,Lakeland
+North America,USA,Oregon,Gresham
+North America,USA,California,Richmond
+North America,USA,Montana,Billings
+North America,USA,California,Inglewood
+North America,USA,Oklahoma,Broken Arrow
+North America,USA,Georgia,Sandy Springs
+North America,USA,California,Jurupa Valley
+North America,USA,Oregon,Hillsboro
+North America,USA,Connecticut,Waterbury
+North America,USA,California,Santa Maria
+North America,USA,Colorado,Boulder
+North America,USA,Colorado,Greeley
+North America,USA,California,Daly City
+North America,USA,Idaho,Meridian
+North America,USA,Texas,Lewisville
+North America,USA,Florida,Davie
+North America,USA,California,West Covina
+North America,USA,Texas,League City
+North America,USA,Texas,Tyler
+North America,USA,California,Norwalk
+North America,USA,California,San Mateo
+North America,USA,Wisconsin,Green Bay
+North America,USA,Texas,Wichita Falls
+North America,USA,Nevada,Sparks
+North America,USA,New Jersey,Lakewood
+North America,USA,California,Burbank
+North America,USA,California,Rialto
+North America,USA,Texas,Allen
+North America,USA,California,El Cajon
+North America,USA,New Mexico,Las Cruces
+North America,USA,Washington,Renton
+North America,USA,Iowa,Davenport
+North America,USA,Indiana,South Bend
+North America,USA,California,Vista
+North America,USA,Alabama,Tuscaloosa
+North America,USA,Michigan,Clinton
+North America,USA,New Jersey,Edison
+North America,USA,New Jersey,Woodbridge
+North America,USA,Texas,San Angelo
+North America,USA,Wisconsin,Kenosha
+North America,USA,California,Vacaville
+North America,USA,California,Vacaville
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Europe,Turkey,,Istanbul
+Europe,Russia,,Moscow
+Europe,United Kingdom,,London
+Europe,Russia,,Saint Petersburg
+Europe,Germany,,Berlin
+Europe,Spain,,Madrid
+Europe,Ukraine,,Kiev/Kyiv
+Europe,Italy,,Rome
+Europe,France,,Paris
+Europe,Romania,,Bucharest
+Europe,Belarus,,Minsk
+Europe,Germany,,Hamburg
+Europe,Austria,,Vienna
+Europe,Poland,,Warsaw
+Europe,Hungary,,Budapest
+Europe,Spain,,Barcelona
+Europe,Ukraine,,Kharkiv
+Europe,Germany,,Munich
+Europe,Italy,,Milan
+Europe,Czech Republic,,Prague
+Europe,Russia,,Nizhny Novgorod
+Europe,Russia,,Kazan
+Europe,Bulgaria,,Sofia
+Europe,United Kingdom,,Birmingham
+Europe,Belgium,,Brussels
+Europe,Russia,,Samara
+Europe,Serbia,,Belgrade
+Europe,Russia,,Ufa
+Europe,Russia,,Rostov-on-Don
+Europe,Germany,,Cologne
+Europe,Russia,,Voronezh
+Europe,Russia,,Perm
+Europe,Russia,,Volgograd
+Europe,Ukraine,,Odessa
+Europe,Russia,,Krasnodar
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
+North America,USA,Ohio,Columbus
+North America,USA,California,San Francisco
+North America,USA,North Carolina,Charlotte
+North America,USA,Indiana,Indianapolis
+North America,USA,Washington,Seattle
+North America,USA,Colorado,Denver
+North America,USA,District of Columbia,Washington
+North America,USA,Massachusetts,Boston
+North America,USA,Texas,El Paso
+North America,USA,Michigan,Detroit
+North America,USA,Tennessee,Nashville
+North America,USA,Oregon,Portland
+North America,USA,Tennessee,Memphis
+North America,USA,Oklahoma,Oklahoma City
+North America,USA,Nevada,Las Vegas
+North America,USA,Kentucky,Louisville
+North America,USA,Maryland,Baltimore
+North America,USA,Wisconsin,Milwaukee
+North America,USA,New Mexico,Albuquerque
+North America,USA,Arizona,Tucson
+North America,USA,California,Fresno
+North America,USA,Arizona,Mesa
+North America,USA,California,Sacramento
+North America,USA,Georgia,Atlanta
+North America,USA,Missouri,Kansas City
+North America,USA,Colorado,Colorado Springs
+North America,USA,Florida,Miami
+North America,USA,North Carolina,Raleigh
+North America,USA,Nebraska,Omaha
+North America,USA,California,Long Beach
+North America,USA,Virginia,Virginia Beach
+North America,USA,California,Oakland
+North America,USA,Minnesota,Minneapolis
+North America,USA,Oklahoma,Tulsa
+North America,USA,Texas,Arlington
+North America,USA,Florida,Tampa
+North America,USA,Louisiana,New Orleans
+North America,USA,Kansas,Wichita
+North America,USA,Ohio,Cleveland
+North America,USA,California,Bakersfield
+North America,USA,Colorado,Aurora
+North America,USA,California,Anaheim
+North America,USA,Hawaii,Honolulu
+North America,USA,California,Santa Ana
+North America,USA,California,Riverside
+North America,USA,Texas,Corpus Christi
+North America,USA,Kentucky,Lexington
+North America,USA,California,Stockton
+North America,USA,Nevada,Henderson
+North America,USA,Minnesota,Saint Paul
+North America,USA,Missouri,St. Louis
+North America,USA,Ohio,Cincinnati
+North America,USA,Pennsylvania,Pittsburgh
+North America,USA,North Carolina,Greensboro
+North America,USA,Alaska,Anchorage
+North America,USA,Texas,Plano
+North America,USA,Nebraska,Lincoln
+North America,USA,Florida,Orlando
+North America,USA,California,Irvine
+North America,USA,New Jersey,Newark
+North America,USA,Ohio,Toledo
+North America,USA,North Carolina,Durham
+North America,USA,California,Chula Vista
+North America,USA,Indiana,Fort Wayne
+North America,USA,New Jersey,Jersey City
+North America,USA,Florida,St. Petersburg
+North America,USA,Texas,Laredo
+North America,USA,Wisconsin,Madison
+North America,USA,Arizona,Chandler
+North America,USA,New York,Buffalo
+North America,USA,Texas,Lubbock
+North America,USA,Arizona,Scottsdale
+North America,USA,Nevada,Reno
+North America,USA,Arizona,Glendale
+North America,USA,Arizona,Gilbert
+North America,USA,North Carolina,WinstonSalem
+North America,USA,Nevada,North Las Vegas
+North America,USA,Virginia,Norfolk
+North America,USA,Virginia,Chesapeake
+North America,USA,Texas,Garland
+North America,USA,Texas,Irving
+North America,USA,Florida,Hialeah
+North America,USA,California,Fremont
+North America,USA,Idaho,Boise
+North America,USA,Virginia,Richmond
+North America,USA,Louisiana,Baton Rouge
+North America,USA,Washington,Spokane
+North America,USA,Iowa,Des Moines
+North America,USA,Washington,Tacoma
+North America,USA,California,San Bernardino
+North America,USA,California,Modesto
+North America,USA,California,Fontana
+North America,USA,California,Santa Clarita
+North America,USA,Alabama,Birmingham
+North America,USA,California,Oxnard
+North America,USA,North Carolina,Fayetteville
+North America,USA,California,Moreno Valley
+North America,USA,New York,Rochester
+North America,USA,California,Glendale
+North America,USA,California,Huntington Beach
+North America,USA,Utah,Salt Lake City
+North America,USA,Michigan,Grand Rapids
+North America,USA,Texas,Amarillo
+North America,USA,New York,Yonkers
+North America,USA,Illinois,Aurora
+North America,USA,Alabama,Montgomery
+North America,USA,Ohio,Akron
+North America,USA,Arkansas,Little Rock
+North America,USA,Alabama,Huntsville
+North America,USA,Georgia,Augusta
+North America,USA,Florida,Port St. Lucie
+North America,USA,Texas,Grand Prairie
+North America,USA,Georgia,Columbus
+North America,USA,Florida,Tallahassee
+North America,USA,Kansas,Overland Park
+North America,USA,Arizona,Tempe
+North America,USA,Texas,McKinney
+North America,USA,Alabama,Mobile
+North America,USA,Florida,Cape Coral
+North America,USA,Louisiana,Shreveport
+North America,USA,Texas,Frisco
+North America,USA,Tennessee,Knoxville
+North America,USA,Massachusetts,Worcester
+North America,USA,Texas,Brownsville
+North America,USA,Washington,Vancouver
+North America,USA,Florida,Fort Lauderdale
+North America,USA,South Dakota,Sioux Falls
+North America,USA,California,Ontario
+North America,USA,Tennessee,Chattanooga
+North America,USA,Rhode Island,Providence
+North America,USA,Virginia,Newport News
+North America,USA,California,Rancho Cucamonga
+North America,USA,California,Santa Rosa
+North America,USA,California,Oceanside
+North America,USA,Oregon,Salem
+North America,USA,California,Elk Grove
+North America,USA,California,Garden Grove
+North America,USA,Florida,Pembroke Pines
+North America,USA,Arizona,Peoria
+North America,USA,Oregon,Eugene
+North America,USA,California,Corona
+North America,USA,North Carolina,Cary
+North America,USA,Missouri,Springfield
+North America,USA,Colorado,Fort Collins
+North America,USA,Mississippi,Jackson
+North America,USA,Virginia,Alexandria
+North America,USA,California,Hayward
+North America,USA,California,Lancaster
+North America,USA,Colorado,Lakewood
+North America,USA,Tennessee,Clarksville
+North America,USA,California,Palmdale
+North America,USA,California,Salinas
+North America,USA,Massachusetts,Springfield
+North America,USA,Florida,Hollywood
+North America,USA,Texas,Pasadena
+North America,USA,California,Sunnyvale
+North America,USA,Georgia,Macon
+North America,USA,Kansas,Kansas City
+North America,USA,California,Pomona
+North America,USA,California,Escondido
+North America,USA,Texas,Killeen
+North America,USA,Illinois,Naperville
+North America,USA,Illinois,Joliet
+North America,USA,Washington,Bellevue
+North America,USA,Illinois,Rockford
+North America,USA,Georgia,Savannah
+North America,USA,New Jersey,Paterson
+North America,USA,California,Torrance
+North America,USA,Connecticut,Bridgeport
+North America,USA,Texas,McAllen
+North America,USA,Texas,Mesquite
+North America,USA,New York,Syracuse
+North America,USA,Texas,Midland
+North America,USA,California,Pasadena
+North America,USA,Tennessee,Murfreesboro
+North America,USA,Florida,Miramar
+North America,USA,Ohio,Dayton
+North America,USA,California,Fullerton
+North America,USA,Kansas,Olathe
+North America,USA,California,Orange
+North America,USA,Colorado,Thornton
+North America,USA,California,Roseville
+North America,USA,Texas,Denton
+North America,USA,Texas,Waco
+North America,USA,Arizona,Surprise
+North America,USA,Texas,Carrollton
+North America,USA,Utah,West Valley City
+North America,USA,South Carolina,Charleston
+North America,USA,Michigan,Warren
+North America,USA,Virginia,Hampton
+North America,USA,Florida,Gainesville
+North America,USA,California,Visalia
+North America,USA,Florida,Coral Springs
+North America,USA,South Carolina,Columbia
+North America,USA,Iowa,Cedar Rapids
+North America,USA,Michigan,Sterling Heights
+North America,USA,Connecticut,New Haven
+North America,USA,Connecticut,Stamford
+North America,USA,California,Concord
+North America,USA,Washington,Kent
+North America,USA,California,Santa Clara
+North America,USA,New Jersey,Elizabeth
+North America,USA,Texas,Round Rock
+North America,USA,California,Thousand Oaks
+North America,USA,Louisiana,Lafayette
+North America,USA,Georgia,Athens
+North America,USA,Kansas,Topeka
+North America,USA,California,Simi Valley
+North America,USA,North Dakota,Fargo
+North America,USA,Oklahoma,Norman
+North America,USA,Missouri,Columbia
+North America,USA,Texas,Abilene
+North America,USA,North Carolina,Wilmington
+North America,USA,Connecticut,Hartford
+North America,USA,California,Victorville
+North America,USA,Texas,Pearland
+North America,USA,California,Vallejo
+North America,USA,Michigan,Ann Arbor
+North America,USA,California,Berkeley
+North America,USA,Pennsylvania,Allentown
+North America,USA,Texas,Richardson
+North America,USA,Texas,Odessa
+North America,USA,Colorado,Arvada
+North America,USA,Massachusetts,Cambridge
+North America,USA,Texas,Sugar Land
+North America,USA,Texas,Beaumont
+North America,USA,Michigan,Lansing
+North America,USA,Indiana,Evansville
+North America,USA,Minnesota,Rochester
+North America,USA,Missouri,Independence
+North America,USA,California,Fairfield
+North America,USA,Utah,Provo
+North America,USA,Florida,Clearwater
+North America,USA,Texas,College Station
+North America,USA,Utah,West Jordan
+North America,USA,California,Carlsbad
+North America,USA,California,El Monte
+North America,USA,California,Murrieta
+North America,USA,California,Temecula
+North America,USA,Illinois,Springfield
+North America,USA,Florida,Palm Bay
+North America,USA,California,Costa Mesa
+North America,USA,Colorado,Westminster
+North America,USA,South Carolina,North Charleston
+North America,USA,Florida,Miami Gardens
+North America,USA,New Hampshire,Manchester
+North America,USA,North Carolina,High Point
+North America,USA,California,Downey
+North America,USA,California,Clovis
+North America,USA,Florida,Pompano Beach
+North America,USA,Colorado,Pueblo
+North America,USA,Illinois,Elgin
+North America,USA,Massachusetts,Lowell
+North America,USA,California,Antioch
+North America,USA,Florida,West Palm Beach
+North America,USA,Illinois,Peoria
+North America,USA,Washington,Everett
+North America,USA,California,Ventura
+North America,USA,Colorado,Centennial
+North America,USA,Florida,Lakeland
+North America,USA,Oregon,Gresham
+North America,USA,California,Richmond
+North America,USA,Montana,Billings
+North America,USA,California,Inglewood
+North America,USA,Oklahoma,Broken Arrow
+North America,USA,Georgia,Sandy Springs
+North America,USA,California,Jurupa Valley
+North America,USA,Oregon,Hillsboro
+North America,USA,Connecticut,Waterbury
+North America,USA,California,Santa Maria
+North America,USA,Colorado,Boulder
+North America,USA,Colorado,Greeley
+North America,USA,California,Daly City
+North America,USA,Idaho,Meridian
+North America,USA,Texas,Lewisville
+North America,USA,Florida,Davie
+North America,USA,California,West Covina
+North America,USA,Texas,League City
+North America,USA,Texas,Tyler
+North America,USA,California,Norwalk
+North America,USA,California,San Mateo
+North America,USA,Wisconsin,Green Bay
+North America,USA,Texas,Wichita Falls
+North America,USA,Nevada,Sparks
+North America,USA,New Jersey,Lakewood
+North America,USA,California,Burbank
+North America,USA,California,Rialto
+North America,USA,Texas,Allen
+North America,USA,California,El Cajon
+North America,USA,New Mexico,Las Cruces
+North America,USA,Washington,Renton
+North America,USA,Iowa,Davenport
+North America,USA,Indiana,South Bend
+North America,USA,California,Vista
+North America,USA,Alabama,Tuscaloosa
+North America,USA,Michigan,Clinton
+North America,USA,New Jersey,Edison
+North America,USA,New Jersey,Woodbridge
+North America,USA,Texas,San Angelo
+North America,USA,Wisconsin,Kenosha
+North America,USA,California,Vacaville
+North America,USA,California,Vacaville
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Europe,Turkey,,Istanbul
+Europe,Russia,,Moscow
+Europe,United Kingdom,,London
+Europe,Russia,,Saint Petersburg
+Europe,Germany,,Berlin
+Europe,Spain,,Madrid
+Europe,Ukraine,,Kiev/Kyiv
+Europe,Italy,,Rome
+Europe,France,,Paris
+Europe,Romania,,Bucharest
+Europe,Belarus,,Minsk
+Europe,Germany,,Hamburg
+Europe,Austria,,Vienna
+Europe,Poland,,Warsaw
+Europe,Hungary,,Budapest
+Europe,Spain,,Barcelona
+Europe,Ukraine,,Kharkiv
+Europe,Germany,,Munich
+Europe,Italy,,Milan
+Europe,Czech Republic,,Prague
+Europe,Russia,,Nizhny Novgorod
+Europe,Russia,,Kazan
+Europe,Bulgaria,,Sofia
+Europe,United Kingdom,,Birmingham
+Europe,Belgium,,Brussels
+Europe,Russia,,Samara
+Europe,Serbia,,Belgrade
+Europe,Russia,,Ufa
+Europe,Russia,,Rostov-on-Don
+Europe,Germany,,Cologne
+Europe,Russia,,Voronezh
+Europe,Russia,,Perm
+Europe,Russia,,Volgograd
+Europe,Ukraine,,Odessa
+Europe,Russia,,Krasnodar
+continent,country,state,city
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
+North America,USA,Ohio,Columbus
+North America,USA,California,San Francisco
+North America,USA,North Carolina,Charlotte
+North America,USA,Indiana,Indianapolis
+North America,USA,Washington,Seattle
+North America,USA,Colorado,Denver
+North America,USA,District of Columbia,Washington
+North America,USA,Massachusetts,Boston
+North America,USA,Texas,El Paso
+North America,USA,Michigan,Detroit
+North America,USA,Tennessee,Nashville
+North America,USA,Oregon,Portland
+North America,USA,Tennessee,Memphis
+North America,USA,Oklahoma,Oklahoma City
+North America,USA,Nevada,Las Vegas
+North America,USA,Kentucky,Louisville
+North America,USA,Maryland,Baltimore
+North America,USA,Wisconsin,Milwaukee
+North America,USA,New Mexico,Albuquerque
+North America,USA,Arizona,Tucson
+North America,USA,California,Fresno
+North America,USA,Arizona,Mesa
+North America,USA,California,Sacramento
+North America,USA,Georgia,Atlanta
+North America,USA,Missouri,Kansas City
+North America,USA,Colorado,Colorado Springs
+North America,USA,Florida,Miami
+North America,USA,North Carolina,Raleigh
+North America,USA,Nebraska,Omaha
+North America,USA,California,Long Beach
+North America,USA,Virginia,Virginia Beach
+North America,USA,California,Oakland
+North America,USA,Minnesota,Minneapolis
+North America,USA,Oklahoma,Tulsa
+North America,USA,Texas,Arlington
+North America,USA,Florida,Tampa
+North America,USA,Louisiana,New Orleans
+North America,USA,Kansas,Wichita
+North America,USA,Ohio,Cleveland
+North America,USA,California,Bakersfield
+North America,USA,Colorado,Aurora
+North America,USA,California,Anaheim
+North America,USA,Hawaii,Honolulu
+North America,USA,California,Santa Ana
+North America,USA,California,Riverside
+North America,USA,Texas,Corpus Christi
+North America,USA,Kentucky,Lexington
+North America,USA,California,Stockton
+North America,USA,Nevada,Henderson
+North America,USA,Minnesota,Saint Paul
+North America,USA,Missouri,St. Louis
+North America,USA,Ohio,Cincinnati
+North America,USA,Pennsylvania,Pittsburgh
+North America,USA,North Carolina,Greensboro
+North America,USA,Alaska,Anchorage
+North America,USA,Texas,Plano
+North America,USA,Nebraska,Lincoln
+North America,USA,Florida,Orlando
+North America,USA,California,Irvine
+North America,USA,New Jersey,Newark
+North America,USA,Ohio,Toledo
+North America,USA,North Carolina,Durham
+North America,USA,California,Chula Vista
+North America,USA,Indiana,Fort Wayne
+North America,USA,New Jersey,Jersey City
+North America,USA,Florida,St. Petersburg
+North America,USA,Texas,Laredo
+North America,USA,Wisconsin,Madison
+North America,USA,Arizona,Chandler
+North America,USA,New York,Buffalo
+North America,USA,Texas,Lubbock
+North America,USA,Arizona,Scottsdale
+North America,USA,Nevada,Reno
+North America,USA,Arizona,Glendale
+North America,USA,Arizona,Gilbert
+North America,USA,North Carolina,WinstonSalem
+North America,USA,Nevada,North Las Vegas
+North America,USA,Virginia,Norfolk
+North America,USA,Virginia,Chesapeake
+North America,USA,Texas,Garland
+North America,USA,Texas,Irving
+North America,USA,Florida,Hialeah
+North America,USA,California,Fremont
+North America,USA,Idaho,Boise
+North America,USA,Virginia,Richmond
+North America,USA,Louisiana,Baton Rouge
+North America,USA,Washington,Spokane
+North America,USA,Iowa,Des Moines
+North America,USA,Washington,Tacoma
+North America,USA,California,San Bernardino
+North America,USA,California,Modesto
+North America,USA,California,Fontana
+North America,USA,California,Santa Clarita
+North America,USA,Alabama,Birmingham
+North America,USA,California,Oxnard
+North America,USA,North Carolina,Fayetteville
+North America,USA,California,Moreno Valley
+North America,USA,New York,Rochester
+North America,USA,California,Glendale
+North America,USA,California,Huntington Beach
+North America,USA,Utah,Salt Lake City
+North America,USA,Michigan,Grand Rapids
+North America,USA,Texas,Amarillo
+North America,USA,New York,Yonkers
+North America,USA,Illinois,Aurora
+North America,USA,Alabama,Montgomery
+North America,USA,Ohio,Akron
+North America,USA,Arkansas,Little Rock
+North America,USA,Alabama,Huntsville
+North America,USA,Georgia,Augusta
+North America,USA,Florida,Port St. Lucie
+North America,USA,Texas,Grand Prairie
+North America,USA,Georgia,Columbus
+North America,USA,Florida,Tallahassee
+North America,USA,Kansas,Overland Park
+North America,USA,Arizona,Tempe
+North America,USA,Texas,McKinney
+North America,USA,Alabama,Mobile
+North America,USA,Florida,Cape Coral
+North America,USA,Louisiana,Shreveport
+North America,USA,Texas,Frisco
+North America,USA,Tennessee,Knoxville
+North America,USA,Massachusetts,Worcester
+North America,USA,Texas,Brownsville
+North America,USA,Washington,Vancouver
+North America,USA,Florida,Fort Lauderdale
+North America,USA,South Dakota,Sioux Falls
+North America,USA,California,Ontario
+North America,USA,Tennessee,Chattanooga
+North America,USA,Rhode Island,Providence
+North America,USA,Virginia,Newport News
+North America,USA,California,Rancho Cucamonga
+North America,USA,California,Santa Rosa
+North America,USA,California,Oceanside
+North America,USA,Oregon,Salem
+North America,USA,California,Elk Grove
+North America,USA,California,Garden Grove
+North America,USA,Florida,Pembroke Pines
+North America,USA,Arizona,Peoria
+North America,USA,Oregon,Eugene
+North America,USA,California,Corona
+North America,USA,North Carolina,Cary
+North America,USA,Missouri,Springfield
+North America,USA,Colorado,Fort Collins
+North America,USA,Mississippi,Jackson
+North America,USA,Virginia,Alexandria
+North America,USA,California,Hayward
+North America,USA,California,Lancaster
+North America,USA,Colorado,Lakewood
+North America,USA,Tennessee,Clarksville
+North America,USA,California,Palmdale
+North America,USA,California,Salinas
+North America,USA,Massachusetts,Springfield
+North America,USA,Florida,Hollywood
+North America,USA,Texas,Pasadena
+North America,USA,California,Sunnyvale
+North America,USA,Georgia,Macon
+North America,USA,Kansas,Kansas City
+North America,USA,California,Pomona
+North America,USA,California,Escondido
+North America,USA,Texas,Killeen
+North America,USA,Illinois,Naperville
+North America,USA,Illinois,Joliet
+North America,USA,Washington,Bellevue
+North America,USA,Illinois,Rockford
+North America,USA,Georgia,Savannah
+North America,USA,New Jersey,Paterson
+North America,USA,California,Torrance
+North America,USA,Connecticut,Bridgeport
+North America,USA,Texas,McAllen
+North America,USA,Texas,Mesquite
+North America,USA,New York,Syracuse
+North America,USA,Texas,Midland
+North America,USA,California,Pasadena
+North America,USA,Tennessee,Murfreesboro
+North America,USA,Florida,Miramar
+North America,USA,Ohio,Dayton
+North America,USA,California,Fullerton
+North America,USA,Kansas,Olathe
+North America,USA,California,Orange
+North America,USA,Colorado,Thornton
+North America,USA,California,Roseville
+North America,USA,Texas,Denton
+North America,USA,Texas,Waco
+North America,USA,Arizona,Surprise
+North America,USA,Texas,Carrollton
+North America,USA,Utah,West Valley City
+North America,USA,South Carolina,Charleston
+North America,USA,Michigan,Warren
+North America,USA,Virginia,Hampton
+North America,USA,Florida,Gainesville
+North America,USA,California,Visalia
+North America,USA,Florida,Coral Springs
+North America,USA,South Carolina,Columbia
+North America,USA,Iowa,Cedar Rapids
+North America,USA,Michigan,Sterling Heights
+North America,USA,Connecticut,New Haven
+North America,USA,Connecticut,Stamford
+North America,USA,California,Concord
+North America,USA,Washington,Kent
+North America,USA,California,Santa Clara
+North America,USA,New Jersey,Elizabeth
+North America,USA,Texas,Round Rock
+North America,USA,California,Thousand Oaks
+North America,USA,Louisiana,Lafayette
+North America,USA,Georgia,Athens
+North America,USA,Kansas,Topeka
+North America,USA,California,Simi Valley
+North America,USA,North Dakota,Fargo
+North America,USA,Oklahoma,Norman
+North America,USA,Missouri,Columbia
+North America,USA,Texas,Abilene
+North America,USA,North Carolina,Wilmington
+North America,USA,Connecticut,Hartford
+North America,USA,California,Victorville
+North America,USA,Texas,Pearland
+North America,USA,California,Vallejo
+North America,USA,Michigan,Ann Arbor
+North America,USA,California,Berkeley
+North America,USA,Pennsylvania,Allentown
+North America,USA,Texas,Richardson
+North America,USA,Texas,Odessa
+North America,USA,Colorado,Arvada
+North America,USA,Massachusetts,Cambridge
+North America,USA,Texas,Sugar Land
+North America,USA,Texas,Beaumont
+North America,USA,Michigan,Lansing
+North America,USA,Indiana,Evansville
+North America,USA,Minnesota,Rochester
+North America,USA,Missouri,Independence
+North America,USA,California,Fairfield
+North America,USA,Utah,Provo
+North America,USA,Florida,Clearwater
+North America,USA,Texas,College Station
+North America,USA,Utah,West Jordan
+North America,USA,California,Carlsbad
+North America,USA,California,El Monte
+North America,USA,California,Murrieta
+North America,USA,California,Temecula
+North America,USA,Illinois,Springfield
+North America,USA,Florida,Palm Bay
+North America,USA,California,Costa Mesa
+North America,USA,Colorado,Westminster
+North America,USA,South Carolina,North Charleston
+North America,USA,Florida,Miami Gardens
+North America,USA,New Hampshire,Manchester
+North America,USA,North Carolina,High Point
+North America,USA,California,Downey
+North America,USA,California,Clovis
+North America,USA,Florida,Pompano Beach
+North America,USA,Colorado,Pueblo
+North America,USA,Illinois,Elgin
+North America,USA,Massachusetts,Lowell
+North America,USA,California,Antioch
+North America,USA,Florida,West Palm Beach
+North America,USA,Illinois,Peoria
+North America,USA,Washington,Everett
+North America,USA,California,Ventura
+North America,USA,Colorado,Centennial
+North America,USA,Florida,Lakeland
+North America,USA,Oregon,Gresham
+North America,USA,California,Richmond
+North America,USA,Montana,Billings
+North America,USA,California,Inglewood
+North America,USA,Oklahoma,Broken Arrow
+North America,USA,Georgia,Sandy Springs
+North America,USA,California,Jurupa Valley
+North America,USA,Oregon,Hillsboro
+North America,USA,Connecticut,Waterbury
+North America,USA,California,Santa Maria
+North America,USA,Colorado,Boulder
+North America,USA,Colorado,Greeley
+North America,USA,California,Daly City
+North America,USA,Idaho,Meridian
+North America,USA,Texas,Lewisville
+North America,USA,Florida,Davie
+North America,USA,California,West Covina
+North America,USA,Texas,League City
+North America,USA,Texas,Tyler
+North America,USA,California,Norwalk
+North America,USA,California,San Mateo
+North America,USA,Wisconsin,Green Bay
+North America,USA,Texas,Wichita Falls
+North America,USA,Nevada,Sparks
+North America,USA,New Jersey,Lakewood
+North America,USA,California,Burbank
+North America,USA,California,Rialto
+North America,USA,Texas,Allen
+North America,USA,California,El Cajon
+North America,USA,New Mexico,Las Cruces
+North America,USA,Washington,Renton
+North America,USA,Iowa,Davenport
+North America,USA,Indiana,South Bend
+North America,USA,California,Vista
+North America,USA,Alabama,Tuscaloosa
+North America,USA,Michigan,Clinton
+North America,USA,New Jersey,Edison
+North America,USA,New Jersey,Woodbridge
+North America,USA,Texas,San Angelo
+North America,USA,Wisconsin,Kenosha
+North America,USA,California,Vacaville
+North America,USA,California,Vacaville
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Europe,Turkey,,Istanbul
+Europe,Russia,,Moscow
+Europe,United Kingdom,,London
+Europe,Russia,,Saint Petersburg
+Europe,Germany,,Berlin
+Europe,Spain,,Madrid
+Europe,Ukraine,,Kiev/Kyiv
+Europe,Italy,,Rome
+Europe,France,,Paris
+Europe,Romania,,Bucharest
+Europe,Belarus,,Minsk
+Europe,Germany,,Hamburg
+Europe,Austria,,Vienna
+Europe,Poland,,Warsaw
+Europe,Hungary,,Budapest
+Europe,Spain,,Barcelona
+Europe,Ukraine,,Kharkiv
+Europe,Germany,,Munich
+Europe,Italy,,Milan
+Europe,Czech Republic,,Prague
+Europe,Russia,,Nizhny Novgorod
+Europe,Russia,,Kazan
+Europe,Bulgaria,,Sofia
+Europe,United Kingdom,,Birmingham
+Europe,Belgium,,Brussels
+Europe,Russia,,Samara
+Europe,Serbia,,Belgrade
+Europe,Russia,,Ufa
+Europe,Russia,,Rostov-on-Don
+Europe,Germany,,Cologne
+Europe,Russia,,Voronezh
+Europe,Russia,,Perm
+Europe,Russia,,Volgograd
+Europe,Ukraine,,Odessa
+Europe,Russia,,Krasnodar
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
+North America,USA,Ohio,Columbus
+North America,USA,California,San Francisco
+North America,USA,North Carolina,Charlotte
+North America,USA,Indiana,Indianapolis
+North America,USA,Washington,Seattle
+North America,USA,Colorado,Denver
+North America,USA,District of Columbia,Washington
+North America,USA,Massachusetts,Boston
+North America,USA,Texas,El Paso
+North America,USA,Michigan,Detroit
+North America,USA,Tennessee,Nashville
+North America,USA,Oregon,Portland
+North America,USA,Tennessee,Memphis
+North America,USA,Oklahoma,Oklahoma City
+North America,USA,Nevada,Las Vegas
+North America,USA,Kentucky,Louisville
+North America,USA,Maryland,Baltimore
+North America,USA,Wisconsin,Milwaukee
+North America,USA,New Mexico,Albuquerque
+North America,USA,Arizona,Tucson
+North America,USA,California,Fresno
+North America,USA,Arizona,Mesa
+North America,USA,California,Sacramento
+North America,USA,Georgia,Atlanta
+North America,USA,Missouri,Kansas City
+North America,USA,Colorado,Colorado Springs
+North America,USA,Florida,Miami
+North America,USA,North Carolina,Raleigh
+North America,USA,Nebraska,Omaha
+North America,USA,California,Long Beach
+North America,USA,Virginia,Virginia Beach
+North America,USA,California,Oakland
+North America,USA,Minnesota,Minneapolis
+North America,USA,Oklahoma,Tulsa
+North America,USA,Texas,Arlington
+North America,USA,Florida,Tampa
+North America,USA,Louisiana,New Orleans
+North America,USA,Kansas,Wichita
+North America,USA,Ohio,Cleveland
+North America,USA,California,Bakersfield
+North America,USA,Colorado,Aurora
+North America,USA,California,Anaheim
+North America,USA,Hawaii,Honolulu
+North America,USA,California,Santa Ana
+North America,USA,California,Riverside
+North America,USA,Texas,Corpus Christi
+North America,USA,Kentucky,Lexington
+North America,USA,California,Stockton
+North America,USA,Nevada,Henderson
+North America,USA,Minnesota,Saint Paul
+North America,USA,Missouri,St. Louis
+North America,USA,Ohio,Cincinnati
+North America,USA,Pennsylvania,Pittsburgh
+North America,USA,North Carolina,Greensboro
+North America,USA,Alaska,Anchorage
+North America,USA,Texas,Plano
+North America,USA,Nebraska,Lincoln
+North America,USA,Florida,Orlando
+North America,USA,California,Irvine
+North America,USA,New Jersey,Newark
+North America,USA,Ohio,Toledo
+North America,USA,North Carolina,Durham
+North America,USA,California,Chula Vista
+North America,USA,Indiana,Fort Wayne
+North America,USA,New Jersey,Jersey City
+North America,USA,Florida,St. Petersburg
+North America,USA,Texas,Laredo
+North America,USA,Wisconsin,Madison
+North America,USA,Arizona,Chandler
+North America,USA,New York,Buffalo
+North America,USA,Texas,Lubbock
+North America,USA,Arizona,Scottsdale
+North America,USA,Nevada,Reno
+North America,USA,Arizona,Glendale
+North America,USA,Arizona,Gilbert
+North America,USA,North Carolina,WinstonSalem
+North America,USA,Nevada,North Las Vegas
+North America,USA,Virginia,Norfolk
+North America,USA,Virginia,Chesapeake
+North America,USA,Texas,Garland
+North America,USA,Texas,Irving
+North America,USA,Florida,Hialeah
+North America,USA,California,Fremont
+North America,USA,Idaho,Boise
+North America,USA,Virginia,Richmond
+North America,USA,Louisiana,Baton Rouge
+North America,USA,Washington,Spokane
+North America,USA,Iowa,Des Moines
+North America,USA,Washington,Tacoma
+North America,USA,California,San Bernardino
+North America,USA,California,Modesto
+North America,USA,California,Fontana
+North America,USA,California,Santa Clarita
+North America,USA,Alabama,Birmingham
+North America,USA,California,Oxnard
+North America,USA,North Carolina,Fayetteville
+North America,USA,California,Moreno Valley
+North America,USA,New York,Rochester
+North America,USA,California,Glendale
+North America,USA,California,Huntington Beach
+North America,USA,Utah,Salt Lake City
+North America,USA,Michigan,Grand Rapids
+North America,USA,Texas,Amarillo
+North America,USA,New York,Yonkers
+North America,USA,Illinois,Aurora
+North America,USA,Alabama,Montgomery
+North America,USA,Ohio,Akron
+North America,USA,Arkansas,Little Rock
+North America,USA,Alabama,Huntsville
+North America,USA,Georgia,Augusta
+North America,USA,Florida,Port St. Lucie
+North America,USA,Texas,Grand Prairie
+North America,USA,Georgia,Columbus
+North America,USA,Florida,Tallahassee
+North America,USA,Kansas,Overland Park
+North America,USA,Arizona,Tempe
+North America,USA,Texas,McKinney
+North America,USA,Alabama,Mobile
+North America,USA,Florida,Cape Coral
+North America,USA,Louisiana,Shreveport
+North America,USA,Texas,Frisco
+North America,USA,Tennessee,Knoxville
+North America,USA,Massachusetts,Worcester
+North America,USA,Texas,Brownsville
+North America,USA,Washington,Vancouver
+North America,USA,Florida,Fort Lauderdale
+North America,USA,South Dakota,Sioux Falls
+North America,USA,California,Ontario
+North America,USA,Tennessee,Chattanooga
+North America,USA,Rhode Island,Providence
+North America,USA,Virginia,Newport News
+North America,USA,California,Rancho Cucamonga
+North America,USA,California,Santa Rosa
+North America,USA,California,Oceanside
+North America,USA,Oregon,Salem
+North America,USA,California,Elk Grove
+North America,USA,California,Garden Grove
+North America,USA,Florida,Pembroke Pines
+North America,USA,Arizona,Peoria
+North America,USA,Oregon,Eugene
+North America,USA,California,Corona
+North America,USA,North Carolina,Cary
+North America,USA,Missouri,Springfield
+North America,USA,Colorado,Fort Collins
+North America,USA,Mississippi,Jackson
+North America,USA,Virginia,Alexandria
+North America,USA,California,Hayward
+North America,USA,California,Lancaster
+North America,USA,Colorado,Lakewood
+North America,USA,Tennessee,Clarksville
+North America,USA,California,Palmdale
+North America,USA,California,Salinas
+North America,USA,Massachusetts,Springfield
+North America,USA,Florida,Hollywood
+North America,USA,Texas,Pasadena
+North America,USA,California,Sunnyvale
+North America,USA,Georgia,Macon
+North America,USA,Kansas,Kansas City
+North America,USA,California,Pomona
+North America,USA,California,Escondido
+North America,USA,Texas,Killeen
+North America,USA,Illinois,Naperville
+North America,USA,Illinois,Joliet
+North America,USA,Washington,Bellevue
+North America,USA,Illinois,Rockford
+North America,USA,Georgia,Savannah
+North America,USA,New Jersey,Paterson
+North America,USA,California,Torrance
+North America,USA,Connecticut,Bridgeport
+North America,USA,Texas,McAllen
+North America,USA,Texas,Mesquite
+North America,USA,New York,Syracuse
+North America,USA,Texas,Midland
+North America,USA,California,Pasadena
+North America,USA,Tennessee,Murfreesboro
+North America,USA,Florida,Miramar
+North America,USA,Ohio,Dayton
+North America,USA,California,Fullerton
+North America,USA,Kansas,Olathe
+North America,USA,California,Orange
+North America,USA,Colorado,Thornton
+North America,USA,California,Roseville
+North America,USA,Texas,Denton
+North America,USA,Texas,Waco
+North America,USA,Arizona,Surprise
+North America,USA,Texas,Carrollton
+North America,USA,Utah,West Valley City
+North America,USA,South Carolina,Charleston
+North America,USA,Michigan,Warren
+North America,USA,Virginia,Hampton
+North America,USA,Florida,Gainesville
+North America,USA,California,Visalia
+North America,USA,Florida,Coral Springs
+North America,USA,South Carolina,Columbia
+North America,USA,Iowa,Cedar Rapids
+North America,USA,Michigan,Sterling Heights
+North America,USA,Connecticut,New Haven
+North America,USA,Connecticut,Stamford
+North America,USA,California,Concord
+North America,USA,Washington,Kent
+North America,USA,California,Santa Clara
+North America,USA,New Jersey,Elizabeth
+North America,USA,Texas,Round Rock
+North America,USA,California,Thousand Oaks
+North America,USA,Louisiana,Lafayette
+North America,USA,Georgia,Athens
+North America,USA,Kansas,Topeka
+North America,USA,California,Simi Valley
+North America,USA,North Dakota,Fargo
+North America,USA,Oklahoma,Norman
+North America,USA,Missouri,Columbia
+North America,USA,Texas,Abilene
+North America,USA,North Carolina,Wilmington
+North America,USA,Connecticut,Hartford
+North America,USA,California,Victorville
+North America,USA,Texas,Pearland
+North America,USA,California,Vallejo
+North America,USA,Michigan,Ann Arbor
+North America,USA,California,Berkeley
+North America,USA,Pennsylvania,Allentown
+North America,USA,Texas,Richardson
+North America,USA,Texas,Odessa
+North America,USA,Colorado,Arvada
+North America,USA,Massachusetts,Cambridge
+North America,USA,Texas,Sugar Land
+North America,USA,Texas,Beaumont
+North America,USA,Michigan,Lansing
+North America,USA,Indiana,Evansville
+North America,USA,Minnesota,Rochester
+North America,USA,Missouri,Independence
+North America,USA,California,Fairfield
+North America,USA,Utah,Provo
+North America,USA,Florida,Clearwater
+North America,USA,Texas,College Station
+North America,USA,Utah,West Jordan
+North America,USA,California,Carlsbad
+North America,USA,California,El Monte
+North America,USA,California,Murrieta
+North America,USA,California,Temecula
+North America,USA,Illinois,Springfield
+North America,USA,Florida,Palm Bay
+North America,USA,California,Costa Mesa
+North America,USA,Colorado,Westminster
+North America,USA,South Carolina,North Charleston
+North America,USA,Florida,Miami Gardens
+North America,USA,New Hampshire,Manchester
+North America,USA,North Carolina,High Point
+North America,USA,California,Downey
+North America,USA,California,Clovis
+North America,USA,Florida,Pompano Beach
+North America,USA,Colorado,Pueblo
+North America,USA,Illinois,Elgin
+North America,USA,Massachusetts,Lowell
+North America,USA,California,Antioch
+North America,USA,Florida,West Palm Beach
+North America,USA,Illinois,Peoria
+North America,USA,Washington,Everett
+North America,USA,California,Ventura
+North America,USA,Colorado,Centennial
+North America,USA,Florida,Lakeland
+North America,USA,Oregon,Gresham
+North America,USA,California,Richmond
+North America,USA,Montana,Billings
+North America,USA,California,Inglewood
+North America,USA,Oklahoma,Broken Arrow
+North America,USA,Georgia,Sandy Springs
+North America,USA,California,Jurupa Valley
+North America,USA,Oregon,Hillsboro
+North America,USA,Connecticut,Waterbury
+North America,USA,California,Santa Maria
+North America,USA,Colorado,Boulder
+North America,USA,Colorado,Greeley
+North America,USA,California,Daly City
+North America,USA,Idaho,Meridian
+North America,USA,Texas,Lewisville
+North America,USA,Florida,Davie
+North America,USA,California,West Covina
+North America,USA,Texas,League City
+North America,USA,Texas,Tyler
+North America,USA,California,Norwalk
+North America,USA,California,San Mateo
+North America,USA,Wisconsin,Green Bay
+North America,USA,Texas,Wichita Falls
+North America,USA,Nevada,Sparks
+North America,USA,New Jersey,Lakewood
+North America,USA,California,Burbank
+North America,USA,California,Rialto
+North America,USA,Texas,Allen
+North America,USA,California,El Cajon
+North America,USA,New Mexico,Las Cruces
+North America,USA,Washington,Renton
+North America,USA,Iowa,Davenport
+North America,USA,Indiana,South Bend
+North America,USA,California,Vista
+North America,USA,Alabama,Tuscaloosa
+North America,USA,Michigan,Clinton
+North America,USA,New Jersey,Edison
+North America,USA,New Jersey,Woodbridge
+North America,USA,Texas,San Angelo
+North America,USA,Wisconsin,Kenosha
+North America,USA,California,Vacaville
+North America,USA,California,Vacaville
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Australia,Australia,Adelaide,South Australia
+Australia,Australia,Melbourne,Victoria
+Australia,Australia,Brisbane,Queensland
+Australia,Australia,Perth,Western Australia
+Europe,Turkey,,Istanbul
+Europe,Russia,,Moscow
+Europe,United Kingdom,,London
+Europe,Russia,,Saint Petersburg
+Europe,Germany,,Berlin
+Europe,Spain,,Madrid
+Europe,Ukraine,,Kiev/Kyiv
+Europe,Italy,,Rome
+Europe,France,,Paris
+Europe,Romania,,Bucharest
+Europe,Belarus,,Minsk
+Europe,Germany,,Hamburg
+Europe,Austria,,Vienna
+Europe,Poland,,Warsaw
+Europe,Hungary,,Budapest
+Europe,Spain,,Barcelona
+Europe,Ukraine,,Kharkiv
+Europe,Germany,,Munich
+Europe,Italy,,Milan
+Europe,Czech Republic,,Prague
+Europe,Russia,,Nizhny Novgorod
+Europe,Russia,,Kazan
+Europe,Bulgaria,,Sofia
+Europe,United Kingdom,,Birmingham
+Europe,Belgium,,Brussels
+Europe,Russia,,Samara
+Europe,Serbia,,Belgrade
+Europe,Russia,,Ufa
+Europe,Russia,,Rostov-on-Don
+Europe,Germany,,Cologne
+Europe,Russia,,Voronezh
+Europe,Russia,,Perm
+Europe,Russia,,Volgograd
+Europe,Ukraine,,Odessa
+Europe,Russia,,Krasnodar
+Asia,Japan,,Tokyo
+Asia,India,,Delhi
+Asia,China,,Shanghai
+Asia,China,,Beijing
+Asia,India,,Mumbai
+Asia,Japan,,Osaka
+Asia,Bangladesh,,Dhaka
+Asia,Pakistan,,Karachi
+Asia,India,,Kolkata
+Asia,China,,Chongqing
+Asia,China,,Guangzhou
+Asia,Philippines,,Manila
+Asia,China,,Tianjin
+Asia,China,,Shenzhen
+Asia,India,,Bangalore
+Asia,Indonesia,,Jakarta
+Asia,India,,Chennai
+Asia,South Korea,,Seoul
+Asia,Thailand,,Bangkok
+Asia,India,,Hyderabad
+North America,USA,New York,New York
+North America,USA,California,Los Angeles
+North America,USA,Illinois,Chicago
+North America,USA,Texas,Houston
+North America,USA,Arizona,Phoenix
+North America,USA,Pennsylvania,Philadelphia
+North America,USA,Texas,San Antonio
+North America,USA,California,San Diego
+North America,USA,Texas,Dallas
+North America,USA,California,San Jose
+North America,USA,Texas,Austin
+North America,USA,Florida,Jacksonville
+North America,USA,Texas,Fort Worth
