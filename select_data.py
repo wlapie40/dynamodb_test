@@ -1,34 +1,42 @@
-import boto3
-import json
-import decimal
-from boto3.dynamodb.conditions import Key, Attr
-from botocore.exceptions import ClientError
-from database.create_db import DockerizeDynamoDB
+from boto3 import resource
+from boto3.dynamodb.conditions import Key
+
+dynamodb_resource = resource('dynamodb')
+table = dynamodb_resource.Table('sfigiel-serverless-test')
+
+def get_table_metadata(table_name):
+    """
+    Get some metadata about chosen table.
+    """
+    table = dynamodb_resource.Table(table_name)
+
+    return {
+        'num_items': table.item_count,
+        'primary_key_name': table.key_schema[0],
+        'status': table.table_status,
+        'bytes_size': table.table_size_bytes,
+        'global_secondary_indices': table.global_secondary_indexes
+    }
+
+def read_table_item(table_name, pk_name, pk_value):
+    """
+    Return item read by primary key.
+    """
+    table = dynamodb_resource.Table(table_name)
+    response = table.get_item(Key={pk_name: pk_value})
+
+    return response
 
 
-db = DockerizeDynamoDB("Fighters")
+fe = Key('year').between(1950, 1959)
+pe = "#yr, title, info.rating"
+# Expression Attribute Names for Projection Expression only.
+ean = { "#yr": "year", }
+esk = None
 
 
-class DecimalEncoder(json.JSONEncoder):
-    def default(self, o):
-        if isinstance(o, decimal.Decimal):
-            if o % 1 > 0:
-                return float(o)
-            else:
-                return int(o)
-        return super(DecimalEncoder, self).default(o)
-
-
-try:
-    response = db.client.get_item(
-        TableName='Fighters',
-        Key={
-            "Name": {"S":"Jacob"},
-        }
+response = table.scan(
+    FilterExpression=fe,
+    ProjectionExpression=pe,
+    ExpressionAttributeNames=ean
     )
-except ClientError as e:
-    print(e.response['Error']['Message'])
-else:
-    item = response['Item']
-    print("GetItem succeeded:")
-    print(json.dumps(item, indent=4, cls=DecimalEncoder))

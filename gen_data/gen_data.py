@@ -73,4 +73,4 @@ def gen_data_fighter_table_data(file_name, num_records=100):
         json.dump(container, outfile, indent=4)
 
 
-gen_data_fighter_table_data('test', 2000)
+gen_data_fighter_table_data('test', 20)
