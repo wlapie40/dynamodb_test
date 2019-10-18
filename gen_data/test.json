@@ -1,0 +1,482 @@
+[
+    {
+        "FighterId": "17b30352-77f7-4b32-9252-659ffaf04745",
+        "Name": "Jacob",
+        "Surname": "Ellison",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "Japan",
+            "State": "none",
+            "City": "Tokyo"
+        },
+        "Contact": {
+            "PhoneNumber": 562968697,
+            "Email": "Jacob.Ellison@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Flyweight",
+            "PreferredStyle": "Wrestling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Alliance MMA",
+            "Record": {
+                "Wins": [
+                    31,
+                    36,
+                    13
+                ],
+                "Losses": [
+                    32,
+                    7,
+                    10
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": true,
+        "Managers": [
+            33,
+            1,
+            3
+        ]
+    },
+    {
+        "FighterId": "c29b2b2b-de38-4764-9506-a1459115f01b",
+        "Name": "Harry",
+        "Surname": "Hughes",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "India",
+            "State": "none",
+            "City": "Delhi"
+        },
+        "Contact": {
+            "PhoneNumber": 992973114,
+            "Email": "Harry.Hughes@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Light Heavyweight",
+            "PreferredStyle": "Boxing",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Tristar Gym",
+            "Record": {
+                "Wins": [
+                    15,
+                    29,
+                    13
+                ],
+                "Losses": [
+                    24,
+                    25,
+                    34
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": false,
+        "Managers": [
+            33,
+            24,
+            14
+        ]
+    },
+    {
+        "FighterId": "8a1f6da4-280f-49fa-8071-63c09dcd5c0a",
+        "Name": "Kevin",
+        "Surname": "Marshall",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "China",
+            "State": "none",
+            "City": "Shanghai"
+        },
+        "Contact": {
+            "PhoneNumber": 312289464,
+            "Email": "Kevin.Marshall@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": true,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Strawweight",
+            "PreferredStyle": "Brazilian jiu-jitsu / Grappling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Team Alpha Male",
+            "Record": {
+                "Wins": [
+                    31,
+                    13,
+                    4
+                ],
+                "Losses": [
+                    27,
+                    15,
+                    40
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": true,
+        "Managers": [
+            25,
+            11,
+            35
+        ]
+    },
+    {
+        "FighterId": "7f7c1469-430c-4daf-8260-42bd64d7f2c5",
+        "Name": "Austin",
+        "Surname": "Black",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "China",
+            "State": "none",
+            "City": "Beijing"
+        },
+        "Contact": {
+            "PhoneNumber": 927467777,
+            "Email": "Austin.Black@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": true,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Welterweight",
+            "PreferredStyle": "Brazilian jiu-jitsu / Grappling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Team Alpha Male",
+            "Record": {
+                "Wins": [
+                    22,
+                    11,
+                    26
+                ],
+                "Losses": [
+                    21,
+                    27,
+                    5
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": true,
+        "Managers": [
+            38,
+            39,
+            27
+        ]
+    },
+    {
+        "FighterId": "ebbb11d6-58c5-4498-8eec-ff189d118e3f",
+        "Name": "Justin",
+        "Surname": "Hodges",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "India",
+            "State": "none",
+            "City": "Mumbai"
+        },
+        "Contact": {
+            "PhoneNumber": 385625812,
+            "Email": "Justin.Hodges@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": true,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Strawweight",
+            "PreferredStyle": "Brazilian jiu-jitsu / Grappling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "SBG Ireland",
+            "Record": {
+                "Wins": [
+                    14,
+                    9,
+                    17
+                ],
+                "Losses": [
+                    21,
+                    21,
+                    28
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": true,
+        "Managers": [
+            1,
+            39,
+            4
+        ]
+    },
+    {
+        "FighterId": "fdd5cd7f-3348-4a5b-86fa-76606de5f904",
+        "Name": "Austin",
+        "Surname": "Wright",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "Japan",
+            "State": "none",
+            "City": "Osaka"
+        },
+        "Contact": {
+            "PhoneNumber": 689358793,
+            "Email": "Austin.Wright@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Lightweight",
+            "PreferredStyle": "Wrestling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Tristar Gym",
+            "Record": {
+                "Wins": [
+                    37,
+                    5,
+                    32
+                ],
+                "Losses": [
+                    34,
+                    26,
+                    34
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": false,
+        "Managers": [
+            9,
+            35,
+            33
+        ]
+    },
+    {
+        "FighterId": "9ad53a94-7445-4d60-ab43-e7868e86b76c",
+        "Name": "Richard",
+        "Surname": "Hill",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "Bangladesh",
+            "State": "none",
+            "City": "Dhaka"
+        },
+        "Contact": {
+            "PhoneNumber": 329711535,
+            "Email": "Richard.Hill@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Bantamweight",
+            "PreferredStyle": "Brazilian jiu-jitsu / Grappling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Jackson-Wink MMA",
+            "Record": {
+                "Wins": [
+                    15,
+                    5,
+                    25
+                ],
+                "Losses": [
+                    25,
+                    16,
+                    24
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": false,
+        "Managers": [
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "FighterId": "4dc32b44-efa5-4af3-a516-30adb381b9bc",
+        "Name": "Blake",
+        "Surname": "Sharp",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "Pakistan",
+            "State": "none",
+            "City": "Karachi"
+        },
+        "Contact": {
+            "PhoneNumber": 734261341,
+            "Email": "Blake.Sharp@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": true,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Welterweight",
+            "PreferredStyle": "Muay Thai/Kickboxing",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Alliance MMA",
+            "Record": {
+                "Wins": [
+                    17,
+                    21,
+                    3
+                ],
+                "Losses": [
+                    23,
+                    4,
+                    23
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": false,
+        "Managers": [
+            40,
+            11,
+            4
+        ]
+    },
+    {
+        "FighterId": "bf5653da-bc94-49f9-8c5f-66cacdd2d3e7",
+        "Name": "Gordon",
+        "Surname": "Walker",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "India",
+            "State": "none",
+            "City": "Kolkata"
+        },
+        "Contact": {
+            "PhoneNumber": 813529371,
+            "Email": "Gordon.Walker@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Lightweight",
+            "PreferredStyle": "Wrestling",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Alliance MMA",
+            "Record": {
+                "Wins": [
+                    22,
+                    2,
+                    8
+                ],
+                "Losses": [
+                    36,
+                    13,
+                    21
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": true,
+        "Managers": [
+            31,
+            26,
+            7
+        ]
+    },
+    {
+        "FighterId": "bb6fbc72-848d-455b-97e5-b72e96a5c93c",
+        "Name": "Blake",
+        "Surname": "Marshall",
+        "Address": {
+            "Continent": "Asia",
+            "Country": "China",
+            "State": "none",
+            "City": "Chongqing"
+        },
+        "Contact": {
+            "PhoneNumber": 625565323,
+            "Email": "Blake.Marshall@gmail.com"
+        },
+        "Health": {
+            "HealthStatus": false,
+            "ReadyToFight": "2019-20-10",
+            "Descritpion": "none"
+        },
+        "FighterProfile": {
+            "Born": "1984-06-17",
+            "Class": "Bantamweight",
+            "PreferredStyle": "Boxing",
+            "Height": "6'2",
+            "WeightLBS": 185,
+            "WeightKG": 83.91,
+            "Association": "Alliance MMA",
+            "Record": {
+                "Wins": [
+                    2,
+                    27,
+                    34
+                ],
+                "Losses": [
+                    31,
+                    16,
+                    36
+                ]
+            }
+        },
+        "Fights": {},
+        "LookingForFights": false,
+        "Managers": [
+            12,
+            40,
+            22
+        ]
+    }
+]

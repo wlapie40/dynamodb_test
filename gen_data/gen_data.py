@@ -49,7 +49,7 @@ def gen_data_fighter_table_data(file_name, num_records=100):
                 "Email": f"{names_surnames[0]+'.'+names_surnames[1]}@gmail.com"
             },
             "Health": {
-                "HealthStatus": random.choice(["true", "false"]),
+                "HealthStatus": random.choice([True, False]),
                 "ReadyToFight": "2019-20-10",
                 "Descritpion": "none"
             },
@@ -57,14 +57,14 @@ def gen_data_fighter_table_data(file_name, num_records=100):
                 "Born": "1984-06-17",
                 "Class": random.choice(CATEGORY_WEIGHT),
                 "PreferredStyle": random.choice(FIGHT_STYLE),
-                "Height": "6 2",
-                "WeightLBS": "185",
-                "WeightKG": "83.91",
+                "Height": "6'2",
+                "WeightLBS": 185,
+                "WeightKG": 83.91,
                 "Association": random.choice(MMA_CLUBS),
                 "Record": {"Wins": gen_random_record(), "Losses": gen_random_record()}
             },
             "Fights": {},
-            "LookingForFights": random.choice(["true", "false"]),
+            "LookingForFights": random.choice([True, False]),
             "Managers": gen_random_record()
         }
         container.append(obj)
@@ -73,4 +73,4 @@ def gen_data_fighter_table_data(file_name, num_records=100):
         json.dump(container, outfile, indent=4)
 
 
-gen_data_fighter_table_data('test', 20)
+gen_data_fighter_table_data('test', 10)

@@ -1,0 +1,17 @@
+version: '3.2'
+services:
+  localstack:
+    image: localstack/localstack:latest
+    container_name: aws_local
+    ports:
+      - '4563-4599:4563-4599'
+      - '8055:8080'
+    environment:
+      - SERVICES=s3,dynamodb,lambda,sns,sqs,ssm,apigateway,iam,cloudwatch
+      - DEBUG=1
+      - DATA_DIR=/tmp/localstack/data
+      - AWS_ACCESS_KEY_ID=dummy-key-id
+      - AWS_SECRET_ACCESS_KEY=dummy-secret-key
+    volumes:
+      - './.localstack:/tmp/localstack'
+      - '/var/run/docker.sock:/var/run/docker.sock'
